@@ -80,10 +80,11 @@ title: 首页
   <div class="avatar">
    <img src="/images/my.jpg" alt="我的头像" style="width:120px; height:120px; border-radius:50%;" />
   </div>
-  <h1>你好，我是 Eric</h1>
+  <h1>Hello，I'm Eric Wang</h1>
   <div class="bio">
-    热爱旅游、开源、新技术分享。专注于后台、前端、Python、数据分析、AI应用开发。
-    喜欢用代码解决问题，打造简洁实用的作品。
+    热爱旅游、打篮球、开源、新技术分享。 <br>
+    专注于后台、前端、Python、数据分析、AI应用开发。<br>
+    在学习的同时，喜欢解决生活中遇到的问题，打造简洁实用的作品。
   </div>
 </div>
 
@@ -91,8 +92,6 @@ title: 首页
 <h2 class="section-title">我的技能</h2>
 <div class="skills">
   <div class="skill-tag">HTML</div>
-  <div class="skill-tag">CSS</div>
-  <div class="skill-tag">JavaScript</div>
   <div class="skill-tag">Python</div>
   <div class="skill-tag">Git</div>
   <div class="skill-tag">Jekyll</div>

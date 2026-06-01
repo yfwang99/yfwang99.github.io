@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 博客
+title: 我的博客
 permalink: /blog/
 ---
 
-# 我的博客
-这里会自动列出所有文章
+<!--   我的博客    -->
+这里记录了我的日常学习、生活和感悟
 
 {% for post in site.posts %}
 <div style="margin: 25px 0; border-bottom:1px solid #eee; padding-bottom:15px;">

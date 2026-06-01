@@ -1,6 +1,6 @@
 # 网站基础配置
 title: Eric's HomePage
-email: ericwang@126.com
+email: ericwang2027@126.com
 description: 个人主页 | 技术博客 | 项目展示
 baseurl: ""
 url: "https://yfwang99.github.io"
@@ -32,3 +32,11 @@ minima:
   skin: classic
   social_links:
     github: yourname
+
+# 屏蔽警告
+sass:
+  sass_dir: _sass
+  quiet_deps: true
+  deprecation_warnings: false
+  quiet: true
+  style: compressed
