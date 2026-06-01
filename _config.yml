@@ -1,11 +1,11 @@
 # 网站基础配置
-title: yfwang 的个人网站
-email: your-email@example.com
+title: Eric's HomePage
+email: ericwang@126.com
 description: 个人主页 | 技术博客 | 项目展示
 baseurl: ""
 url: "https://yfwang99.github.io"
-twitter_username: yourname
-github_username: yfwang
+#twitter_username: yourname
+github_username: Eric Wang
 
 # 主题
 theme: minima

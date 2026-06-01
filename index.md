@@ -77,10 +77,12 @@ title: 首页
 
 <!-- 个人简介 -->
 <div class="hero">
-  <div class="avatar">👋</div>
+  <div class="avatar">
+   <img src="/images/my.jpg" alt="我的头像" style="width:120px; height:120px; border-radius:50%;" />
+  </div>
   <h1>你好，我是 Eric</h1>
   <div class="bio">
-    热爱编程、开源、技术分享。专注于前端、Python、自动化与网站开发。
+    热爱旅游、开源、新技术分享。专注于后台、前端、Python、数据分析、AI应用开发。
     喜欢用代码解决问题，打造简洁实用的作品。
   </div>
 </div>
